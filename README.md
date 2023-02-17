@@ -1,0 +1,1 @@
+This is some sort of Etch-a-Sketch program. A culmination of the lessons learned from practicing basic HTML, CSS, and Javascript.
