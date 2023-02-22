@@ -1,4 +1,41 @@
 #container {
     display:flex;
     flex-direction: column;
+    justify-content: space-between;
+    height: 960px;
+    width: 960px;
+    border: solid;
+    margin: auto;
 }
+
+#resize {
+    height: 40px;
+    width: 90px;
+}
+
+.row {
+    display: flex;
+    justify-content: space-between;
+    flex: 1 0 auto;
+}
+
+.cell {
+    display: flex;
+    flex: 1 0 auto;
+    border: outset;
+    border-width: 1px;
+}
+
+h2 {
+    text-align: center;
+}
+
+button{
+    justify-content: center;
+}
+
+body {
+    text-align: center;
+    justify-content: center;
+}
+
